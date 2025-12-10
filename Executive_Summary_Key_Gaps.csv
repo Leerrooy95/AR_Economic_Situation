@@ -1,0 +1,13 @@
+Border_Pair,Metric,AR_Value,Neighbor_Value,Gap_Value,Gap_Percent,AR_Advantage
+West Memphis vs Southaven,High School Graduation Rate,84.0,87.0,-3.0,-3.4,No
+West Memphis vs Southaven,Violent Crime Rate (per 100k),1922.0,228.0,1694.0,743.0,Yes
+West Memphis vs Southaven,Reading Proficiency Rate,15.5,38.0,-22.5,-59.2,No
+West Memphis vs Southaven,Math Proficiency Rate,17.5,71.0,-53.5,-75.4,No
+West Memphis vs Southaven,Combined Sales Tax Rate,11.25,7.0,4.25,60.7,Yes
+Miller County AR vs Bowie County TX,Combined Sales Tax Rate,10.25,8.25,2.0,24.2,Yes
+Miller County AR vs Bowie County TX,Population Change 2020-2024,-1.5,-1.3,-0.2,15.4,No
+Crittenden County AR vs DeSoto County MS,Population Change 2020-2024,-1.7,5.7,-7.4,-129.8,No
+Texarkana AR vs TX,High School Graduation Rate,79.5,91.9,-12.4,-13.5,No
+Texarkana AR vs TX,Reading Proficiency Rate,26.0,46.0,-20.0,-43.5,No
+Texarkana AR vs TX,Math Proficiency Rate,31.0,33.0,-2.0,-6.1,No
+Texarkana AR vs TX,Average ACT Score,18.08,21.3,-3.22,-15.1,No

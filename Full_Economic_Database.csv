@@ -1,0 +1,33 @@
+Year,Region,State,Metric,Value,Unit,Source_ID,Category
+2022,Arkansas Statewide,AR,Net Business Establishments Added,3023.0,Count,SBA_2022,Economy
+2022,Tennessee Statewide,TN,Net Business Establishments Added,11491.0,Count,SBA_2022,Economy
+2022,Texas Statewide,TX,Net Business Establishments Added,20551.0,Count,SBA_2022,Economy
+2023,Crittenden County,AR,Total Employment,20100.0,Persons,Census_CBP_2023,Economy
+2024,Bowie County,TX,Population Change 2020-2024,-1.3,Percent,Census_2024,Demographics
+2024,Crittenden County,AR,Population Change 2020-2024,-1.7,Percent,Census_2024,Demographics
+2024,Crittenden County,AR,Net Migration 2023-2024,-477.0,Persons,Census_2024,Demographics
+2024,DeSoto County,MS,Population Change 2020-2024,5.7,Percent,Census_2024,Demographics
+2024,Miller County,AR,Population Change 2020-2024,-1.5,Percent,Census_2024,Demographics
+2024,Shelby County,TN,Population Change 2020-2024,-2.1,Percent,Census_2024,Demographics
+2024,Southaven,MS,Reading Proficiency Rate,38.0,Percent,MS_DOE_2024,Education
+2024,Southaven,MS,Math Proficiency Rate,71.0,Percent,MS_DOE_2024,Education
+2024,Southaven,MS,High School Graduation Rate,87.0,Percent,MS_DOE_2024,Education
+2024,Texarkana (TASD),AR,Reading Proficiency Rate,26.0,Percent,AR_DESE_2024,Education
+2024,Texarkana (TASD),AR,Math Proficiency Rate,31.0,Percent,AR_DESE_2024,Education
+2024,Texarkana (TASD),AR,Average ACT Score,18.08,Score,AR_DESE_2024,Education
+2024,Texarkana (TASD),AR,High School Graduation Rate,79.5,Percent,AR_DESE_2024,Education
+2024,Texarkana (TISD),TX,Reading Proficiency Rate,46.0,Percent,TX_TEA_2024,Education
+2024,Texarkana (TISD),TX,Math Proficiency Rate,33.0,Percent,TX_TEA_2024,Education
+2024,Texarkana (TISD),TX,Average ACT Score,21.3,Score,TX_TEA_2024,Education
+2024,Texarkana (TISD),TX,High School Graduation Rate,91.9,Percent,TX_TEA_2024,Education
+2024,West Memphis,AR,Reading Proficiency Rate,15.5,Percent,AR_DESE_2024,Education
+2024,West Memphis,AR,Math Proficiency Rate,17.5,Percent,AR_DESE_2024,Education
+2024,West Memphis,AR,High School Graduation Rate,84.0,Percent,AR_DESE_2024,Education
+2024,Southaven,MS,Violent Crime Rate (per 100k),228.0,Incidents,FBI_UCR_2024,Safety
+2024,West Memphis,AR,Violent Crime Rate (per 100k),1922.0,Incidents,FBI_UCR_2024,Safety
+2024,West Memphis,AR,Homicide Count,17.0,Count,West_Memphis_PD_2024,Safety
+2025,Crittenden County,AR,Employment Growth YoY,12.4,Percent,Census_CBP_2025,Economy
+2025,Bowie County,TX,Combined Sales Tax Rate,8.25,Percent,TX_Comptroller_2025,Tax
+2025,Miller County,AR,Combined Sales Tax Rate,10.25,Percent,AR_DFA_2025,Tax
+2025,Southaven,MS,Combined Sales Tax Rate,7.0,Percent,MS_DOR_2025,Tax
+2025,West Memphis,AR,Combined Sales Tax Rate,11.25,Percent,AR_DFA_2025,Tax
