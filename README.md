@@ -128,14 +128,6 @@ The `Full_Economic_Database.csv` file is structured for correlation analysis. Th
 
 ---
 
-## Citation
-
-If you use this data, please cite:
-
-> Mid-South Economic Research Bureau. (2025).
-
----
-
 ## Contact
 
 For questions about methodology or data sources, open an issue in this repository.
