@@ -148,4 +148,4 @@ Data compiled from public government sources. Analysis and documentation release
 
 ---
 
-*Last updated: December 2025*
+*Last updated: December 10, 2025*
