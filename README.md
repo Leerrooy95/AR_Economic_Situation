@@ -1,6 +1,6 @@
 # The Arkansas Border Economic Crisis
 
-**A Data-Driven Analysis of the "Border City Paradox"**
+**A Data-Driven Analysis of the "Border Cities"**
 
 ---
 
@@ -132,7 +132,7 @@ The `Full_Economic_Database.csv` file is structured for correlation analysis. Th
 
 If you use this data, please cite:
 
-> Mid-South Economic Research Bureau. (2025). *The Arkansas Border Economic Crisis: A Data-Driven Analysis of the Border City Paradox.* [GitHub Repository]
+> Mid-South Economic Research Bureau. (2025).
 
 ---
 
