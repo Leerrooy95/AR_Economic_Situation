@@ -62,12 +62,6 @@ The headline chart. Shows Crittenden County's poverty rate is 124% higher than D
 **`Median_Household_Income_Gap.png`**  
 Income disparities across all three border pairs. Crittenden County households earn $29,000 less than DeSoto County counterparts.
 
-**`Correlation_IncomeGap_vs_EduGap.png`**  
-Demonstrates the relationship between education investment and economic outcomes. Counties with larger education gaps show correspondingly larger income gaps.
-
-**`Disparity_Index_Ranking.png`**  
-Summary visualization of the Z-score disparity model.
-
 ---
 
 ## Methodology
