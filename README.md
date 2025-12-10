@@ -1,4 +1,4 @@
-# The Arkansas Border Economic Crisis
+# The Arkansas Border Economic Situation
 
 **A Data-Driven Analysis of the "Border Cities"**
 
